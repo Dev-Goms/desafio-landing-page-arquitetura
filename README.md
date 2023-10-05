@@ -21,3 +21,6 @@
     Aqui já entrei na par de finalizar a estilização da página, utilizando display-grid para alinhar os blocos e deixando tudo em seu devido lugar.
 
     Também foi preciso utilizar o display-flex para alinhar os itens do formulário. Para fazer o botão ficar mais funcional e com ""cara de botão mesmo", tive que adicionar o "hover", para que ele mudasse um pouco o estilo quando passar o mouse por cima.
+
+## 4ª Fase
+    Nessa etapa é a hora de fazer a integração do formulário.
